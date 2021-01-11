@@ -12,7 +12,7 @@
 - 박현종
 
 ### Frontend
-- 이은비   :star2:  
+- 이은비   :star2:Team Leader
 - 정이든
 
 ### Designer  
